@@ -12,12 +12,12 @@ while True:
         break
     elif choice == "1":
         food = input("Enter your Favourite Food Name")
-        favourite_foods.append(food)
-        print("Food added Successfully")
+        favourite_foods.append(food) # Add input to the Food List
+        print(f"{food} added Successfully") # {food} shows user input
     elif choice == "2":
         food = input("Enter a food name which you want to remove")
-        favourite_foods.remove(food)
-        print("Food removed Successfully")
+        favourite_foods.remove(food) # Remove input from the Food List
+        print(f"{food} removed Successfully") # {food} shows user input
     elif choice == "3":
         if favourite_foods:
             print("Your favourite foods:")
