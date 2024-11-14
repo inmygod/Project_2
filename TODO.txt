@@ -11,4 +11,3 @@ Functionality to be covered:
 1. Add foods
 2. Remove foods
 3. View favourite all foods
-4. Exit
