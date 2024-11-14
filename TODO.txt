@@ -1,0 +1,14 @@
+Project: Favourite foods Manager
+
+Topic to be covered:
+List
+List Method
+Loop
+Conditional statement
+
+Functionality to be covered:
+0. Exit
+1. Add foods
+2. Remove foods
+3. View favourite all foods
+4. Exit
